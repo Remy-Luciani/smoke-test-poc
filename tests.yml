@@ -1,0 +1,5 @@
+hostname: "https://github.com"
+tests:
+  /remy-luciani: 200
+  /theodo: 200
+  /balblablablljkzebalabzelkbazrlk: 404
